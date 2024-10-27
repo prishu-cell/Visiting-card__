@@ -1,0 +1,11 @@
+<html>
+<head>
+	<script data-consolejs-channel="d760f183-cef5-a76b-3b19-383ac441d5d1" 	src="https://remotejs.com/agent/agent.js"></script>
+</head>
+	<body>
+		<h1>Welcome to AR Application by Prishika</h1>
+	</body>
+	<script>
+		console.log ("welcome to my site");
+	</script>
+</html>
